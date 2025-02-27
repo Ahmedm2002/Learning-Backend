@@ -1,0 +1,15 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "Learning Backend from Hitesh Choudary",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ahmed Mujtaba",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
